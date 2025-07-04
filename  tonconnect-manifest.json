@@ -1,0 +1,8 @@
+{
+  "url": "https://your-domain.com",
+  "name": "My TON Bot",
+  "iconUrl": "https://your-domain.com/icon.png",
+  "termsOfUseUrl": "https://your-domain.com/terms",
+  "privacyPolicyUrl": "https://your-domain.com/privacy",
+  "webhookUrl": "https://your-domain.com/tonconnect"
+}
